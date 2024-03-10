@@ -22,7 +22,7 @@ html, body {
     color: #555;
     font-family: "Avenir";
     font-weight: 100;
-    /* font-size: 13px; */
+    font-size: 13px;
     height: 25px;
     align-self: flex-end;
   }
